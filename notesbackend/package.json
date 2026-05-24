@@ -1,0 +1,8 @@
+{
+  "name": "notesbackend",
+  "private": true,
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  }
+}
